@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Tuan Anh @chunin1103
+- 👀 I’m interested in making products
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on my thesaurus dictionary app
+- 📫 How to reach me at hi.its.tuananh@gmail.com
