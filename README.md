@@ -2,4 +2,4 @@
 - 👀 I’m a Product Manager
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on my thesaurus dictionary app
-- 📫 How to reach me at hi.its.tuananh@gmail.com
+- 📫 Reach me at hi.its.tuananh@gmail.com
