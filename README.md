@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tuan Anh @chunin1103
 - 👀 I’m a Product Manager
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning Business Development
 - 💞️ I’m looking to collaborate on any interesting products
 - 📫 Reach me at hi.its.tuananh@gmail.com
