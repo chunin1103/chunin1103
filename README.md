@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Tuan Anh @chunin1103
-- 👀 I’m a Product Manager
-- 🌱 I’m currently learning Business Development
-- 💞️ I’m looking to collaborate on any interesting products
-- 📫 Reach me at hi.its.tuananh@gmail.com
+- 👋 Hi, I’m Tuan Anh
+- 👀 Product Manager passionate about building impactful products
+- 🌱 Creator of tudiendongnghia.com — serving 40K+ monthly users
+- 💞️ Excited to collaborate on solving meaningful, unsolved challenges
+- 📫 Contact: hi.its.tuananh@gmail.com
